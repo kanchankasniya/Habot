@@ -1,5 +1,4 @@
 .VideoBuyerContainer {
-    /* width: 1316px; */
     width: 87.03%;
     height: 623px;
     margin-top: 119px;
@@ -13,7 +12,7 @@
 .VideoBuyerContent {
     width: 89.05%;
     height: 350px;
-    background: #bcc4cd;
+    display: flex;
 
 }
 
@@ -24,6 +23,7 @@
 
 .VideoBuyerContentRight {
     width: 45.4%;
+    color: #fff;
 }
 
 .videopic {
@@ -34,10 +34,40 @@
 .vector {
     width: 16.6;
     position: absolute;
-    /* margin: 39.25% 41.69%; */
     top: 39.25%;
     bottom: 39.25%;
     right: 41.69%;
     left: 41.69%;
 
+}
+
+.VideoBuyerHeading {
+    display: flex;
+}
+
+.buyer {
+    width: 202px;
+    height: 47px;
+    margin-left: 65px;
+    border-radius: 1px;
+    color: #EB7150;
+    border-bottom: 2px solid #EB7150;
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 32px;
+    text-align: center;
+
+
+}
+
+.supplier {
+    font-family: Poppins;
+    font-size: 26px;
+    font-weight: 700;
+    margin-left: 88px;
+}
+ul{
+    /* list-style-image: url("/public/images/checked.png"); */
+    list-style-image: url("/public/images/checked.png");
 }
