@@ -1,0 +1,109 @@
+.navContainer {
+    display: flex;
+    align-items: center;
+    height: 86px;
+    min-width: 1512px;
+    align-items: center;
+    background-color: white;
+}
+
+.habotImg {
+    max-width: 181px;
+    height: 43px;
+    top: 25px;
+    margin-left: 83px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+.navRight {
+    max-width: 834.36px;
+    height: 70px;
+    top: 8px;
+    margin-left: 355.64px;
+    align-items: center;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    /* background-color: aqua; */
+}
+
+.navList {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 409px;
+    height: 70px;
+    margin-left: 232px;
+}
+
+.p1 {
+    
+
+    width: 111px;
+height: 24px;
+margin-top: 23px;
+margin-left: 41px;
+font-family: Poppins;
+font-size: 15.25px;
+font-weight: 400;
+
+}
+.p2{
+/* top: 23px; */
+/* text-align: center;
+justify-content: center; */
+    width: 124px;
+height: 24px;
+margin-top: 23px;
+margin-left: 7.17px;
+font-family: Poppins;
+font-size: 14.25px;
+font-weight: 400;
+
+}
+span{
+    margin-top: 25px;
+}
+.listItem1{
+    display:flex;
+    text-align: center;
+    justify-content: center;
+    width: 152px;
+height: 70px;
+margin-left: 61.36px;
+}
+
+.listItem2 {
+    display: flex;
+    width: 160px;
+    height: 70px;
+    text-align: center;
+    margin-right: 8px;
+}
+span img{
+    width: 16px;
+height: 16px;
+
+}
+.navBtn {
+    width: 193.31px;
+    height: 50px;
+    /* top: 10px;
+    left: 641.36px; */
+    border-radius: 5px;
+    border: 2px solid #00732F;
+    color: #00732F;
+    font-family: Inter;
+font-size: 15px;
+font-weight: 700;
+line-height: 24px;
+background-color: #fff;
+/* text-align: center; */
+
+
+
+    
+}

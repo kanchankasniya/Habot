@@ -1,0 +1,177 @@
+.headerContainer {
+    width: 1512px;
+    height: 609px;
+    background-image: url("/public/images/Rectangle.png");
+}
+
+.header {
+    color: #fff;
+
+}
+
+.headerText1 {
+    width: 935px;
+    height: 122px;
+    margin-top: 124px;
+    margin-left: 298px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 55px;
+    font-weight: 700;
+    line-height: 66px;
+    text-align: center;
+}
+
+.headerText1 span {
+    font-weight: 400;
+}
+
+.searchContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 937.94px;
+    height: 56px;
+    margin-top: 47px;
+    margin-left: 296px;
+    gap: 0px;
+    border-radius: 5px;
+}
+
+.searchLeft {
+    width: 400px;
+    height: 56px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px;
+    opacity: 0px;
+    background-color: #fff;
+}
+
+.searchLeftContent {
+    display: flex;
+    width: 363px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 19px;
+    background-color: #fff
+}
+
+.searchRight {
+    width: 400px;
+    height: 56px;
+    gap: 0px;
+    border-radius: 5px;
+    border: 1px;
+    opacity: 0px;
+    background-color: #fff;
+}
+
+.searchRightContent {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    width: 363px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 19px;
+    background-color: #fff;
+}
+
+.suitcase {
+    width: 21px;
+    height: 21px;
+    margin-top: 9px;
+    margin-left: 1px;
+}
+
+.location {
+    width: 23px;
+    height: 23px;
+    margin-top: 9px;
+    margin-left: 1px;
+}
+
+.searchLeftContentText {
+    width: 339.06px;
+    height: 19px;
+    margin-top: 11px;
+    margin-left: 16px;
+}
+
+.searchRightContentText {
+    width: 339.06px;
+    height: 19px;
+    margin-top: 11px;
+    margin-left: 12px;
+    font-family: Poppins;
+    font-size: 15.13px;
+    font-weight: 300;
+    line-height: 22.69px;
+    text-align: left;
+
+}
+
+.searchLeftPlaceholder .searchRightPlaceholder {
+    /* width: 338.45px; */
+    height: 16px;
+    margin-top: 1px;
+    margin-left: 18px;
+    font-family: Poppins;
+    font-size: 15.13px;
+    font-weight: 300;
+    line-height: 22.69px;
+    text-align: left;
+
+}
+
+.header input {
+    width: 338.45px;
+    height: 16px;
+    margin-top: 1px;
+    border: 0px;
+    font-family: Poppins;
+    font-size: 15.13px;
+    font-weight: 300;
+    line-height: 22.69px;
+    text-align: left;
+
+}
+
+input:focus {
+    outline: none;
+}
+
+.searchButton {
+    width: 117.94px;
+    height: 54px;
+    padding: 0px 32.8px 0px 33px;
+    gap: 0px;
+    border-radius: 5px;
+    opacity: 0px;
+    border: 1px solid #00732F;
+    background-color: #00732F;
+    color: #fff;
+    font-family: Inter;
+    font-size: 15.13px;
+    font-weight: 700;
+}
+
+.headerText2 {
+    width: 642px;
+    height: 36px;
+    margin-top: 34px;
+    margin-left: 435px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Poppins;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 27px;
+    text-align: center;
+}
+
+.headerText2 u {
+    font-weight: 400;
+}

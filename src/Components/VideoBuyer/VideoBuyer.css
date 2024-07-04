@@ -1,0 +1,43 @@
+.VideoBuyerContainer {
+    /* width: 1316px; */
+    width: 87.03%;
+    height: 623px;
+    margin-top: 119px;
+    background: #072F57;
+    margin-left: 98px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.VideoBuyerContent {
+    width: 89.05%;
+    height: 350px;
+    background: #bcc4cd;
+
+}
+
+.VideoBuyerContentLeft {
+    width: 54.6%;
+    position: relative;
+}
+
+.VideoBuyerContentRight {
+    width: 45.4%;
+}
+
+.videopic {
+    width: 100%;
+    height: 350px;
+}
+
+.vector {
+    width: 16.6;
+    position: absolute;
+    /* margin: 39.25% 41.69%; */
+    top: 39.25%;
+    bottom: 39.25%;
+    right: 41.69%;
+    left: 41.69%;
+
+}
